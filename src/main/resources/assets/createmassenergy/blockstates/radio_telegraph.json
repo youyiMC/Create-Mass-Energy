@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "working=false": {
+            "model": "createmassenergy:block/radio_telegraph"
+        },
+        "working=true": {
+            "model": "createmassenergy:block/radio_telegraph_on"
+        }
+    }
+}

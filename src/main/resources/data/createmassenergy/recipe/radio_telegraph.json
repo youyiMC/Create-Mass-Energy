@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CRC",
+    "CSC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "create:copper_casing"
+    },
+    "R": {
+      "item": "minecraft:lightning_rod"
+    },
+    "S": {
+      "item": "minecraft:compass"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "createmassenergy:radio_telegraph"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ILI",
+    "ITI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "create:iron_sheet"
+    },
+    "L": {
+      "item": "create:powered_latch"
+    },
+    "T": {
+      "item": "create:turntable"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "createmassenergy:hard_disk_16gb"
+  }
+}

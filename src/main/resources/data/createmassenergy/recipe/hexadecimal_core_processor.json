@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createmassenergy:octo_core_processor"
+    },
+    {
+      "item": "createmassenergy:octo_core_processor"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createmassenergy:hexadecimal_core_processor"
+  }
+}

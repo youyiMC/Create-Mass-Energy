@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "createmassenergy:dotridecimal_core_processor",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.createmassenergy.green_skin_tech"
+    },
+    "description": {
+      "translate": "advancement.createmassenergy.green_skin_tech.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "createmassenergy:root",
+  "criteria": {
+    "has_32_core": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "createmassenergy:dotridecimal_core_processor"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_32_core"
+    ]
+  ]
+}

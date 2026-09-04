@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "particle": "createmassenergy:block/data_terminal_side",
+        "up": "createmassenergy:block/data_terminal_top",
+        "down": "createmassenergy:block/data_terminal_side",
+        "north": "createmassenergy:block/data_terminal_side",
+        "south": "createmassenergy:block/data_terminal_side",
+        "east": "createmassenergy:block/data_terminal_side",
+        "west": "createmassenergy:block/data_terminal_side"
+    }
+}

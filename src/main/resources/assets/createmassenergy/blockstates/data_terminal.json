@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "working=false": {
+            "model": "createmassenergy:block/data_terminal"
+        },
+        "working=true": {
+            "model": "createmassenergy:block/data_terminal_on"
+        }
+    }
+}

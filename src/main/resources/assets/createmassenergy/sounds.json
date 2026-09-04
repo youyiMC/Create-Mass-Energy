@@ -1,0 +1,100 @@
+{
+    "data_terminal_working": {
+        "subtitle": "subtitles.createmassenergy.data_terminal_working",
+        "sounds": [
+            {
+                "name": "createmassenergy:data_terminal_working",
+                "stream": true,
+                "loop": true
+            }
+        ]
+    },
+
+    "telegraph_send": {
+        "subtitle": "subtitles.createmassenergy.telegraph_send",
+        "sounds": [
+            "createmassenergy:telegraph_send"
+        ]
+    },
+
+    "telegraph_receive": {
+        "subtitle": "subtitles.createmassenergy.telegraph_receive",
+        "sounds": [
+            "createmassenergy:telegraph_receive"
+        ]
+    },
+
+    "telegraph_idle": {
+        "subtitle": "subtitles.createmassenergy.telegraph_idle",
+        "sounds": [
+            "createmassenergy:telegraph_idle_1",
+            "createmassenergy:telegraph_idle_2",
+            "createmassenergy:telegraph_idle_3"
+        ]
+    },
+
+    "telegraph_festive_1_7": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_1_7_1"
+        ]
+    },
+
+    "telegraph_festive_2_24": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_2_24_1"
+        ]
+    },
+
+    "telegraph_festive_3_28": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_3_28_1"
+        ]
+    },
+
+    "telegraph_festive_7_7": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_7_7_1"
+        ]
+    },
+
+    "telegraph_festive_7_28": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_7_28_1"
+        ]
+    },
+
+    "telegraph_festive_9_10": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_9_10_1"
+        ]
+    },
+
+    "telegraph_festive_9_11": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_9_11_1"
+        ]
+    },
+
+    "telegraph_festive_12_25": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_12_25_1",
+            "createmassenergy:telegraph_festive_12_25_2"
+        ]
+    },
+
+    "telegraph_festive_12_26": {
+        "subtitle": "subtitles.createmassenergy.telegraph_festive",
+        "sounds": [
+            "createmassenergy:telegraph_festive_12_26_1"
+        ]
+    }
+}
+

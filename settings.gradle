@@ -1,0 +1,15 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven { url = "https://maven.createmod.net" }
+        maven { url = "https://maven.ithundxr.dev/snapshots" }
+        maven { url = "https://maven.tterrag.com" }
+        maven { url = "https://maven.engine-room.org" }
+        maven { url = "https://maven.fabricmc.net/" }
+        mavenCentral()
+    }
+}
+
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}

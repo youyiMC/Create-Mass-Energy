@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "createmassenergy:dual_core_processor",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.createmassenergy.root"
+    },
+    "description": {
+      "translate": "advancement.createmassenergy.root.desc"
+    },
+    "background": "minecraft:textures/block/andesite.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "has_dual_core": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "createmassenergy:dual_core_processor"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_dual_core"
+    ]
+  ]
+}

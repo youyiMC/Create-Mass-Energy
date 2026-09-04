@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PRP",
+    "PTP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "create:cardboard"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "T": {
+      "item": "create:turntable"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "createmassenergy:floppy_disk_525"
+  }
+}

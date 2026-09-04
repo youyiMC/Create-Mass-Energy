@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "createmassenergy:dual_core_processor",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.createmassenergy.pentium4_ht"
+    },
+    "description": {
+      "translate": "advancement.createmassenergy.pentium4_ht.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "createmassenergy:root",
+  "criteria": {
+    "trigger": {
+      "trigger": "createmassenergy:cme_trigger"
+    }
+  },
+  "requirements": [
+    [
+      "trigger"
+    ]
+  ]
+}

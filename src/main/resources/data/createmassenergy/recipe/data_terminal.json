@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ARA",
+    "AFA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "R": {
+      "item": "create:redstone_link"
+    },
+    "F": {
+      "item": "createmassenergy:annihilation_furnace"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "createmassenergy:data_terminal"
+  }
+}

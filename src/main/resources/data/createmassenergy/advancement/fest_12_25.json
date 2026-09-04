@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "createmassenergy:fest_icon_12_25",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.createmassenergy.fest_12_25"
+    },
+    "description": {
+      "translate": "advancement.createmassenergy.fest_12_25.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "createmassenergy:cross_dimensional_communication",
+  "criteria": {
+    "trigger": {
+      "trigger": "createmassenergy:cme_trigger"
+    }
+  },
+  "requirements": [
+    [
+      "trigger"
+    ]
+  ]
+}

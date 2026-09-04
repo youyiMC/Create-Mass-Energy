@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createmassenergy:hard_disk_64gb"
+    },
+    {
+      "item": "create:turntable"
+    },
+    {
+      "item": "create:turntable"
+    },
+    {
+      "item": "create:turntable"
+    },
+    {
+      "item": "create:turntable"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "createmassenergy:hard_disk_128gb"
+  }
+}

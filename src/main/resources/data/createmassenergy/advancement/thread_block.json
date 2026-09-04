@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "createmassenergy:dual_core_processor",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.createmassenergy.thread_block"
+    },
+    "description": {
+      "translate": "advancement.createmassenergy.thread_block.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "createmassenergy:root",
+  "criteria": {
+    "trigger": {
+      "trigger": "createmassenergy:cme_trigger"
+    }
+  },
+  "requirements": [
+    [
+      "trigger"
+    ]
+  ]
+}

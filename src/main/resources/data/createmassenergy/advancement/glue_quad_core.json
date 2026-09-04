@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "createmassenergy:quad_core_processor",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.createmassenergy.glue_quad_core"
+    },
+    "description": {
+      "translate": "advancement.createmassenergy.glue_quad_core.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "createmassenergy:root",
+  "criteria": {
+    "has_quad_core": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "createmassenergy:quad_core_processor"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_quad_core"
+    ]
+  ]
+}

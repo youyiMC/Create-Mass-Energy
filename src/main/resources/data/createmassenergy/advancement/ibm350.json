@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "id": "createmassenergy:hard_disk_16gb",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancement.createmassenergy.ibm350"
+    },
+    "description": {
+      "translate": "advancement.createmassenergy.ibm350.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "createmassenergy:root",
+  "criteria": {
+    "trigger": {
+      "trigger": "createmassenergy:cme_trigger"
+    }
+  },
+  "requirements": [
+    [
+      "trigger"
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "particle": "createmassenergy:block/annihilation_furnace_side",
+        "up": "createmassenergy:block/annihilation_furnace_side",
+        "down": "createmassenergy:block/annihilation_furnace_side",
+        "north": "createmassenergy:block/annihilation_furnace_front",
+        "south": "createmassenergy:block/annihilation_furnace_side",
+        "east": "createmassenergy:block/annihilation_furnace_side",
+        "west": "createmassenergy:block/annihilation_furnace_side"
+    }
+}
